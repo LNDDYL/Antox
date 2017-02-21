@@ -2,17 +2,17 @@
 <resources>
   
     <!-- Activity titles -->
-    <string name="title_activity_add">Add Contact</string>
-    <string name="title_activity_friend_profile">Friend Profile</string>
-    <string name="title_activity_group_profile">Group Info</string>
-    <string name="title_activity_profile_settings">Profile options</string>
+    <string name="title_activity_add">新增聯絡人</string>
+    <string name="title_activity_friend_profile">朋友個人檔案</string>
+    <string name="title_activity_group_profile">群組資訊</string>
+    <string name="title_activity_profile_settings">個人檔案選項</string>
 
     <!-- Navigation / Action Bar -->
-    <string name="add_contact">Add Contact</string>
+    <string name="add_contact">新增聯絡人</string>
 
     <!-- Login Activity -->
     <string name="login_must_fill_in">You must fill in a profile name</string>
-    <string name="login_login">Login</string>
+    <string name="login_login">登入</string>
     <string name="login_account_hint">Profile Name</string>
     <string name="login_create_account_text">Create Tox Profile</string>
     <string name="login_bad_login">Profile name was not recognised</string>
@@ -22,7 +22,7 @@
     <!-- Create Account Activity -->
     <string name="create_name_hint">Profile Name</string>
     <string name="create_text">Secure messaging for everyone.</string>
-    <string name="create_register">Register</string>
+    <string name="create_register">註冊</string>
     <string name="create_register_with_toxme">Register With ToxMe</string>
     <string name="create_sign_up_for_toxme">Sign Up For ToxMe</string>
     <string name="create_registering">Registering account…</string>
@@ -62,13 +62,13 @@
     <string name='main_group_coming_soon'>"Coming soon…"</string>
 
     <!-- Chat Activity -->
-    <string name="chat_enter_message">Send a message</string>
-    <string name="chat_file_transfer">File transfer</string>
+    <string name="chat_enter_message">傳送訊息</string>
+    <string name="chat_file_transfer">檔案傳輸</string>
     <string name="chat_message_too_long">This message is too long and cannot be sent</string>
     <string name="chat_ft_failed_friend_offline">Sending failed - cannot send file to offline friend</string>
-    <string name="call_friend">Call</string>
-    <string name="video_call_friend">Video Call</string>
-    <string name="info">Info</string>
+    <string name="call_friend">通話</string>
+    <string name="video_call_friend">視訊通話</string>
+    <string name="info">資訊</string>
 
     <!-- Crash Activity -->
     <string name="crash_title">Antox Crashed</string>
@@ -76,8 +76,8 @@
 
 
     <!-- Add Pane Fragment -->
-    <string name="addpane_friend_label">Friend</string>
-    <string name="addpane_group_label">Group</string>
+    <string name="addpane_friend_label">朋友</string>
+    <string name="addpane_group_label">群組</string>
 
     <!-- Add Friend Fragment -->
     <string name="addfriend_friend_key">Your friend\'s Tox ID</string>
@@ -106,10 +106,10 @@
     <string name="addgroup_optional_title">Optional Extras</string>
 
     <!-- Friend Profile Activity -->
-    <string name="friend_profile_nick">Nickname</string>
+    <string name="friend_profile_nick">暱稱</string>
     <string name="friend_profile_key">Tox ID</string>
-    <string name="friend_profile_note">Status</string>
-    <string name="friend_profile_button">Update</string>
+    <string name="friend_profile_note">狀態</string>
+    <string name="friend_profile_button">更新</string>
     <string name="friend_profile_updated">The profile has been updated</string>
     <string name="friend_profile_copied">Tox ID Copied</string>
 
@@ -183,10 +183,10 @@
     <string name="delete_account_error">An error occurred while deleting your Antox accont</string>
 
     <!-- Create Group Dialog -->
-    <string name="create_group_dialog_message">Create a new Group Chat</string>
-    <string name="create_group_dialog_create_group">Create Group</string>
-    <string name="create_group_dialog_cancel">Cancel</string>
-    <string name="create_group_dialog_name_header">Group Name</string>
+    <string name="create_group_dialog_message">建立新群組聊天</string>
+    <string name="create_group_dialog_create_group">建立群組</string>
+    <string name="create_group_dialog_cancel">取消</string>
+    <string name="create_group_dialog_name_header">群組名稱</string>
 
     <!-- Group Chat Delete -->
     <string name="group_default_part_message">Goodbye</string>
@@ -198,16 +198,16 @@
     <string name="attachment_photo">Attach photo</string>
     <string name="attachment_file">Attach File</string>
     <string name="attachment_takephoto">Take photo</string>
-    <string name="message_copy">Copy message</string>
+    <string name="message_copy">複製訊息</string>
     <string name="message_delete">Delete message</string>
-    <string name="file_delete">Delete file</string>
-    <string name="file_open">Open file</string>
-    <string name="filetransfer_cancel">Cancel Filetransfer</string>
+    <string name="file_delete">刪除檔案</string>
+    <string name="file_open">開啟檔案</string>
+    <string name="filetransfer_cancel">取消檔案傳輸</string>
 
     <!-- Left Pane Fragment -->
     <string name="titles_recent">Recent</string>
     <string name="titles_contacts">Contacts</string>
-    <string name="titles_settings">Settings</string>
+    <string name="titles_settings">設定</string>
 
     <!-- Edit Call Replies -->
     <string name="title_activity_edit_call_replies">Edit Quick Call Replies</string>
@@ -215,8 +215,8 @@
     <string name="edit_call_reply_title">Edit Quick Reply</string>
 
     <!-- Misc -->
-    <string name="button_confirm">Confirm</string>
-    <string name="button_cancel">Cancel</string>
+    <string name="button_confirm">確認</string>
+    <string name="button_cancel">取消</string>
     <string name="button_yes">Yes</string>
     <string name="button_no">No</string>
     <string name="button_ok">OK</string>
@@ -228,7 +228,7 @@
     <string name="connection_online">come online</string>
     <string name="connection_offline">gone offline</string>
     <string name="title_activity_create_account">CreateAccountActivity</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">設定</string>
 
     <!-- Avatar Dialog -->
     <string name="dialog_avatar_take_photo">Take Photo</string>
@@ -297,29 +297,29 @@
     <string name="unread_count">%s Unread Messages</string>
 
     <!-- User Status -->
-    <string name="status_online">Online</string>
+    <string name="status_online">線上</string>
     <string name="status_away">Away</string>
     <string name="status_busy">Busy</string>
-    <string name="status_offline">Offline</string>
+    <string name="status_offline">離線</string>
 
     <!-- Export profile -->
     <string name="export_success">Exported data file to %s</string>
     <string name="export_failed">Error: Could not export data file.</string>
 
     <!-- nav bar -->
-    <string name="n_settings">Settings</string>
+    <string name="n_settings">設定</string>
     <string name="n_profile_options">Profile</string>
-    <string name="n_create_group">Create Group</string>
+    <string name="n_create_group">建立群組</string>
     <string name="n_add_person">Add Person</string>
-    <string name="n_about">About</string>
+    <string name="n_about">關於</string>
     <string name="n_open_source">Open Source License</string>
-    <string name="n_logout">Logout</string>
+    <string name="n_logout">登出</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="open_source_license">Open source license</string>
     <string name="license1">Distributed under the GNU GPL v3. Created by Mark Winter.</string>
     <string name="license2">Source code is available at\nhttps://github.com/Antox/Antox</string>
-    <string name="ver">Version</string>
+    <string name="ver">版本</string>
     <string name="about">About</string>
     <string name="about_antox_1">With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in.</string>
     <string name="about_antox_2">What Is Currently Working:</string>
@@ -337,6 +337,6 @@
     <string name="empty"> </string>
 
     <string name="request_permissions_text">Grant Permissions</string>
-    <string name="select_file">Select File</string>
+    <string name="select_file">選擇檔案</string>
 
 </resources>
