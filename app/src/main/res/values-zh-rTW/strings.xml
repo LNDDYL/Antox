@@ -91,15 +91,15 @@
     <string name="addfriend_optional_title">Optional Extras</string>
     <string name="dialog_pin">Enter your friend\'s pin</string>
     <string name="addfriend_invalid_pin">Invalid Pin</string>
-    <string name="addfriend_own_key">You cannot add yourself</string>
+    <string name="addfriend_own_key">你不能新增你自己</string>
     <string name="addfriend_friend_pin_title">Enter Friend\'s Pin</string>
     <string name="addfriend_friend_pin_text">Enter Friend\'s Pin</string>
     <string name="addfriend_default_message">Hey! Please accept my friend request</string>
 
     <!-- Add Group Fragment -->
-    <string name="addgroup_group_id">The group\'s ID</string>
-    <string name="addgroup_button">Join Group</string>
-    <string name="addgroup_group_added">Group Joined</string>
+    <string name="addgroup_group_id">群組的 ID</string>
+    <string name="addgroup_button">加入群組</string>
+    <string name="addgroup_group_added">群組已加入</string>
     <string name="addgroup_group_exists">Group already exists</string>
     <string name="invalid_group_ID">Invalid Group ID</string>
     <string name="addgroup_alias_hint">Set an alias for this group</string>
@@ -111,41 +111,41 @@
     <string name="friend_profile_note">狀態</string>
     <string name="friend_profile_button">更新</string>
     <string name="friend_profile_updated">The profile has been updated</string>
-    <string name="friend_profile_copied">Tox ID Copied</string>
+    <string name="friend_profile_copied">Tox ID 已複製</string>
 
     <!-- Group Profile Activity -->
     <string name="group_profile_peer_list_head">Participants</string>
 
     <!-- Friend request fragment -->
     <string name="friend_profile_title">%1$s\'s Profile</string>
-    <string name="friendrequest_accept">Accept</string>
-    <string name="friendrequest_reject">Reject</string>
+    <string name="friendrequest_accept">接受</string>
+    <string name="friendrequest_reject">拒絕</string>
     <string name="friend_request">New Friend Request</string>
 
     <!-- Group invite fragment -->
-    <string name="groupinvite_accept">Accept</string>
-    <string name="groupinvite_reject">Reject</string>
+    <string name="groupinvite_accept">接受</string>
+    <string name="groupinvite_reject">拒絕</string>
     <string name="group_invite">New Group Invite</string>
     <string name="invited_by">You were invited by </string>
 
     <!-- Contacts Fragment -->
     <string name="friend_action_profile">Profile</string>
-    <string name="friend_action_delete">Remove Friend</string>
-    <string name="friend_action_export_chat">Export Chat Logs</string>
-    <string name="friend_action_delete_chat">Delete Chat Logs</string>
-    <string name="friend_action_block">Block</string>
+    <string name="friend_action_delete">移除朋友</string>
+    <string name="friend_action_export_chat">匯出聊天記錄檔</string>
+    <string name="friend_action_delete_chat">刪除聊天記錄檔</string>
+    <string name="friend_action_block">封鎖</string>
     <string name="friend_accepted_default_status">Friend Accepted</string>
-    <string name="group_default_peer_name">Anonymous</string>
-    <string name="group_action_delete">Leave Group</string>
-    <string name="request_action_copy_id">Copy Full ID</string>
+    <string name="group_default_peer_name">匿名</string>
+    <string name="group_action_delete">離開群組</string>
+    <string name="request_action_copy_id">複製完整 ID</string>
     <string name="request_id_copied">Copied ID of Requester</string>
     <string name="contacts_actions_on">Actions on</string>
     <string name="contacts_delimiter_requests">Requests</string>
     <string name="contacts_delimiter_invites">Group Invites</string>
-    <string name="contacts_delimiter_groups">Groups</string>
-    <string name="contacts_delimiter_friends">Friends</string>
-    <string name="contacts_delimiter_offline">Offline</string>
-    <string name="contacts_delimiter_online">Online</string>
+    <string name="contacts_delimiter_groups">群組</string>
+    <string name="contacts_delimiter_friends">朋友</string>
+    <string name="contacts_delimiter_offline">離線</string>
+    <string name="contacts_delimiter_online">線上</string>
     <string name="contacts_resend_friend_request">Resend Friend Request</string>
     <string name="friend_sent_image">%s sent an image.</string>
     <string name="friend_sent_file">%s sent a file.</string>
@@ -170,8 +170,8 @@
     <string name="reset_tox_id_dialog_message">Resetting your Tox ID changes your ID permanently. You will
         keep your current contacts list, but other people won\'t be able to add you using your old ID. </string>
     <string name="reset_tox_id_dialog_title">Confirm Tox ID Reset</string>
-    <string name="reset_tox_id_dialog_confirm">Reset ID</string>
-    <string name="reset_tox_id_dialog_cancel">Cancel</string>
+    <string name="reset_tox_id_dialog_confirm">重設 ID</string>
+    <string name="reset_tox_id_dialog_cancel">取消</string>
     <string name="tox_id_reset">Your Tox ID has been reset</string>
 
     <!-- Delete Account Dialog -->
@@ -189,7 +189,7 @@
     <string name="create_group_dialog_name_header">群組名稱</string>
 
     <!-- Group Chat Delete -->
-    <string name="group_default_part_message">Goodbye</string>
+    <string name="group_default_part_message">再見</string>
 
     <!-- Color Picker Dialog -->
     <string name="dialog_color_picker_title">Select theme color</string>
@@ -252,10 +252,10 @@
     <string name="call_ringing">Ringing…</string>
     <string name="call_duration">Call Duration</string>
     <string name="call_notification_header">Incoming Call</string>
-    <string name="call_mute">Mute</string>
+    <string name="call_mute">靜音</string>
     <string name="call_unmute">Unmute</string>
-    <string name="call_show_video">Enable video</string>
-    <string name="call_hide_video">Disable video</string>
+    <string name="call_show_video">啟用視訊</string>
+    <string name="call_hide_video">停用視訊</string>
     <string name="call_mute_speaker">Mute speaker</string>
     <string name="call_unmute_speaker">Unmute speaker</string>
 
@@ -285,7 +285,7 @@
     <!-- Missed Call Notification -->
     <string name="call_missed_title">Missed call</string>
     <string name="call_missed_call_back">Call</string>
-    <string name="call_missed_reply">Reply</string>
+    <string name="call_missed_reply">回覆</string>
 
     <!-- QR -->
     <string name="qr_default_title">Install Barcode Scanner?</string>
@@ -320,23 +320,23 @@
     <string name="license1">Distributed under the GNU GPL v3. Created by Mark Winter.</string>
     <string name="license2">Source code is available at\nhttps://github.com/Antox/Antox</string>
     <string name="ver">版本</string>
-    <string name="about">About</string>
+    <string name="about">關於</string>
     <string name="about_antox_1">With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in.</string>
     <string name="about_antox_2">What Is Currently Working:</string>
     <string name="about_antox_3">- One to one messaging</string>
-    <string name="about_antox_4">- Notifications</string>
-    <string name="about_antox_5">- File transfers</string>
-    <string name="about_antox_6">Not Working:</string>
-    <string name="about_antox_7">- Audio/Video</string>
-    <string name="about_antox_8">- Groups</string>
-    <string name="title_activity_call">CallActivity</string>
-    <string name="end_call">End Call</string>
-    <string name="mute_call">Mute</string>
+    <string name="about_antox_4">- 通知</string>
+    <string name="about_antox_5">- 檔案傳輸</string>
+    <string name="about_antox_6">無法運作：</string>
+    <string name="about_antox_7">- 音訊/視訊</string>
+    <string name="about_antox_8">- 群組</string>
+    <string name="title_activity_call">通話活動</string>
+    <string name="end_call">掛斷</string>
+    <string name="mute_call">靜音</string>
     <string name="mute_mic">Mute Mic</string>
-    <string name="profile_info_description">Get User Info</string>
+    <string name="profile_info_description">取得使用者資訊</string>
     <string name="empty"> </string>
 
-    <string name="request_permissions_text">Grant Permissions</string>
+    <string name="request_permissions_text">授與權限</string>
     <string name="select_file">選擇檔案</string>
 
 </resources>
